@@ -1,0 +1,42 @@
+{
+    "numeric": {
+        "study_hours_per_day": {
+            "mean": 3.557875,
+            "std": 1.4849222966737852,
+            "min": 0.0,
+            "max": 8.3
+        },
+        "sleep_hours": {
+            "mean": 6.464874999999999,
+            "std": 1.2260128950784424,
+            "min": 3.2,
+            "max": 10.0
+        },
+        "social_media_hours": {
+            "mean": 2.485,
+            "std": 1.1678848161011424,
+            "min": 0.0,
+            "max": 7.2
+        },
+        "mental_health_rating": {
+            "mean": 5.4625,
+            "std": 2.851097103461527,
+            "min": 1.0,
+            "max": 10.0
+        },
+        "attendance_percentage": {
+            "mean": 84.256375,
+            "std": 9.414968741577484,
+            "min": 56.0,
+            "max": 100.0
+        }
+    },
+    "categorical": {
+        "part_time_job": {
+            "unique_values": [
+                "Yes",
+                "No"
+            ]
+        }
+    }
+}
